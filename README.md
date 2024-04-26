@@ -1,6 +1,6 @@
 # Hospital-Database-Management
 
-*Introduction
+* Introduction
 Welcome to the Hospital Management Database project! This project aims to digitalize and streamline the operations of a hospital by efficiently managing patient records, appointments, medical history, and more.
 
 *Project Structure
